@@ -1,2 +1,2 @@
 # TEST-ARUTALA
-containing My result test
+containing My project test 
